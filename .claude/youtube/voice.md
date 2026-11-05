@@ -26,18 +26,29 @@ de forma direta, sem deixar o público do Brasil de lado.
 **What the video must do for her:** fazê-la se reconhecer na dor, sentir que quem fala entende o
 padrão dela, e querer agendar uma conversa. Não é para ensinar o método inteiro de graça.
 
+**Frases que ela provavelmente pensa ao me procurar** (HIPÓTESE do criador, não citações reais.
+Validar com mensagens reais de clientes antes de usar como "depoimento"; nunca apresentar como
+fala de cliente de verdade):
+- "Eu não dou mais conta de viver."
+- "Parece que tudo dá errado, parece que nada funciona."
+- "Parece que tem um vazio dentro de mim."
+- "Eu não me sinto bem."
+
+**Objeções que ela traz:**
+- "Tá caro."
+- "Preciso pensar" (quando o preço é apresentado).
+- "Não tenho dinheiro no momento / vou conseguir primeiro."
+
+**Como ela me contacta:** comenta no conteúdo, manda direct no Instagram, ou entra pelo link da
+bio do Instagram. Canal principal: Instagram.
+
+**Pagamento para quem está fora:** na moeda do país dela. O criador vai providenciar o meio de
+cobrança.
+
 Ainda falta detalhar (TODO, creator to fill in):
 - Gênero e faixa de idade mais comum; cidade/estado; profissão típica.
-- A dor principal que ela traz (relacionamento, ansiedade, luto, autoestima, dependência
-  emocional, outra) e a frase exata que ela diz antes de procurar ajuda.
-- O que ela já tentou (terapia comum, coach, remédio, livros) e por que não resolveu.
-- A objeção principal ao preço e ao compromisso.
-- Países/fusos dos emigrantes que quero atender (Portugal, EUA, Europa, outros) e os horários
-  possíveis de sessão para eles.
-- Preço para quem está fora: continua em reais ou muda de moeda? Como recebe (Pix, cartão
-  internacional, link de pagamento)?
-- Onde ela me encontra (YouTube, Instagram, indicação) e o que acontece depois do vídeo (link,
-  WhatsApp, formulário).
+- Países/fusos dos emigrantes e horários possíveis de sessão para eles.
+- O que ela já tentou antes (terapia comum, coach, remédio, livros) e por que não resolveu.
 
 ## How I actually talk
 
@@ -104,12 +115,26 @@ tá? / né? / entendeu? / sacou? / nossa senhora / pra / "Só isso." / "Só cres
 
 ## What I will not claim
 
-TODO (creator to fill in). Suggested defaults for this style, because it speaks with certainty:
-- No diagnosis of a specific real person. Talk about the pattern, not "you have X".
-- No cause stated as fact when it is a guess ("provavelmente" must stay "provavelmente").
-- No promised results, cure rates or client outcomes that cannot be shown.
-- No real client's name, story or recording used without their written consent.
+- **Sou terapeuta integrativo, NÃO sou psicólogo.** Nunca me apresentar como psicólogo, nem usar
+  CRP/CRM ou sugerir registro em conselho. Formação: Escola Nova Vida (Eduardo Molina);
+  hipnoterapia, constelação familiar e PNL.
+- **Não prometo cura, resultado nem garantia de que o processo vai funcionar.** Em hipótese
+  nenhuma. Nenhum roteiro pode dizer ou insinuar "você vai ser curado", "resolve em X sessões",
+  "garantido".
+- Evitar linguagem clínica que sugere ato de saúde regulado: "tratamento", "diagnóstico",
+  "paciente", "tratar depressão/ansiedade". Usar: "processo", "sessão", "cliente", "padrão".
+- Não diagnosticar uma pessoa real. Falar do padrão, não "você tem X".
+- Causa dita como palpite continua palpite ("provavelmente" não vira "é").
+- Não usar caso, história ou gravação de cliente real sem autorização escrita.
+- Não inventar depoimento, número de clientes atendidos ou resultado que não possa mostrar.
+- Não prometer fazer terapia no lugar de acompanhamento psicológico ou médico. Se a pessoa falar
+  em se machucar ou não aguentar mais viver, o conteúdo e o atendimento indicam ajuda
+  profissional e o CVV (188, 24h, no Brasil).
 
 ## My format
 
-TODO (creator to fill in): length, how the video opens, intro or not, on camera or not.
+- Eu de frente para a câmera, só eu e a câmera, por enquanto. Sem cliente na gravação.
+- Canal principal: Instagram (Reels). YouTube a confirmar.
+- Idioma: português do Brasil falado, no estilo descrito acima.
+- TODO (creator to fill in): duração, como o vídeo abre, como termina (chamada para comentar /
+  direct / link da bio), cenário e roupa.
