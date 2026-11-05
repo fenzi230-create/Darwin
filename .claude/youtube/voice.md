@@ -177,3 +177,19 @@ tá? / né? / entendeu? / sacou? / nossa senhora / pra / "Só isso." / "Só cres
 - Idioma: português do Brasil falado, no estilo descrito acima.
 - Final do vídeo: comentar no conteúdo, mandar direct, ou link da bio.
 - TODO (creator to fill in): como o vídeo abre, cenário e roupa.
+
+## Funil de atendimento
+
+1. Conteúdo (Reels / YouTube) -> 2. comentário, direct ou link da bio -> 3. agendamento online ->
+4. avaliação gratuita comigo -> 5. proposta de sessão ou pacote (sessão R$1.000+, 3 sessões
+R$2.800, 5 sessões R$4.200; moeda local para quem está fora).
+
+- **Nome da etapa 4 em todo texto público: "conversa de avaliação" / "avaliação gratuita".**
+  Nunca "diagnóstico". Não sou psicólogo nem médico e não diagnostico. Na avaliação eu escuto,
+  identifico o padrão que a pessoa descreve e explico como trabalho. Não rotulo (depressão,
+  ansiedade, trauma etc.).
+- As objeções ("tá caro", "preciso pensar", "sem dinheiro agora") aparecem na etapa 5. Os vídeos
+  preparam a pessoa para ela antes: o que é o processo, o que ela leva dele, sem prometer
+  resultado.
+- Bio do Instagram (decisão pendente): ver conversa. Cegueira entra na bio de forma discreta;
+  a história completa fica em um vídeo fixado / destaque.
