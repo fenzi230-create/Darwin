@@ -75,8 +75,17 @@ Ainda falta (TODO, creator to fill in):
   (vereadores) e acesso a contatos; entrei na formação de terapeuta (Escola Nova Vida) contando a
   minha história. Só citar nomes de pessoas ou cargos com autorização delas, e sem sugerir apoio
   político ou institucional ao meu trabalho.
-- TODO (creator to fill in): como a cegueira influencia meu jeito de atender (voz, escuta,
-  silêncio, presença), com um exemplo real sem identificar ninguém; e a bio atual do Instagram.
+- **Como a cegueira muda meu jeito de atender (palavras do criador, resumidas):** presto bem mais
+  atenção no que a pessoa diz e escuto com mais clareza. Consigo dizer o que penso com firmeza,
+  sem me preocupar com como a pessoa está me olhando. Me sinto muito bem atendendo assim.
+  (Ângulo de vídeo: "escuta sem julgamento do olhar". Falar da MINHA experiência, não de todo
+  cego.)
+- **Bio atual do Instagram (v0):**
+  "Ajudando você a não repetir padrões / Cego · Terapeuta · Hipnose + PNL / Enxergo o que você
+  não vê / 👇 Comece por aqui"
+  Pontos a rever: "Enxergo o que você não vê" é frase de superpoder/promessa (conflita com as
+  regras acima); "Cego" vem antes de "Terapeuta"; "Comece por aqui" não diz o que a pessoa
+  encontra; sem convite claro (direct / agendar conversa).
 
 ## How I actually talk
 
