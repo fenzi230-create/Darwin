@@ -9,7 +9,25 @@ STATUS: draft v1, built from ONE excerpt. Fill the "Who I am talking to", "Words
 
 ## Who I am talking to
 
-TODO (creator to fill in): one specific person, described concretely.
+**Who I am:** terapeuta. Formação em hipnoterapia, constelação familiar e PNL (Programação
+Neurolinguística), pela Escola Nova Vida. Modelo de estilo: Eduardo Molina.
+
+**Who I talk to:** uma pessoa com 25 anos ou mais, com renda para investir em terapia de alto valor
+(sessão acima de R$1.000; pacote de 3 sessões R$2.800; pacote de 5 sessões R$4.200). Tem uma dor
+emocional que já pesa e quer resolver, não só desabafar. Já está disposta a agir. É um público
+high ticket, parecido com o do Eduardo Molina.
+
+**What the video must do for her:** fazê-la se reconhecer na dor, sentir que quem fala entende o
+padrão dela, e querer agendar uma conversa. Não é para ensinar o método inteiro de graça.
+
+Ainda falta detalhar (TODO, creator to fill in):
+- Gênero e faixa de idade mais comum; cidade/estado; profissão típica.
+- A dor principal que ela traz (relacionamento, ansiedade, luto, autoestima, dependência
+  emocional, outra) e a frase exata que ela diz antes de procurar ajuda.
+- O que ela já tentou (terapia comum, coach, remédio, livros) e por que não resolveu.
+- A objeção principal ao preço e ao compromisso.
+- Onde ela me encontra (YouTube, Instagram, indicação) e o que acontece depois do vídeo (link,
+  WhatsApp, formulário).
 
 ## How I actually talk
 
