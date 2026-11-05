@@ -45,10 +45,15 @@ bio do Instagram. Canal principal: Instagram.
 **Pagamento para quem está fora:** na moeda do país dela. O criador vai providenciar o meio de
 cobrança.
 
-Ainda falta detalhar (TODO, creator to fill in):
-- Gênero e faixa de idade mais comum; cidade/estado; profissão típica.
-- Países/fusos dos emigrantes e horários possíveis de sessão para eles.
-- O que ela já tentou antes (terapia comum, coach, remédio, livros) e por que não resolveu.
+**Perfil detalhado:**
+- Homens e mulheres. Um pouco mais mulheres, a partir de ~29-30 anos. Homens a partir de 25.
+- Profissão varia (empresa, escola, qualquer área). Não assumir uma profissão nos roteiros.
+- Já tentou terapia comum, psicólogo e remédio, e continua com a dor. O vídeo nunca ataca esses
+  caminhos (não desmerecer psicólogo nem medicação); fala do que ficou sem resolver.
+- Países dos emigrantes: Europa, Estados Unidos e Itália. Fusos bem diferentes do Brasil.
+
+Ainda falta (TODO, creator to fill in):
+- Horários possíveis de sessão para Europa/EUA.
 
 ## How I actually talk
 
@@ -134,7 +139,9 @@ tá? / né? / entendeu? / sacou? / nossa senhora / pra / "Só isso." / "Só cres
 ## My format
 
 - Eu de frente para a câmera, só eu e a câmera, por enquanto. Sem cliente na gravação.
-- Canal principal: Instagram (Reels). YouTube a confirmar.
+- Canais: Instagram (Reels) e YouTube.
+- Formatos: curtos de 60 a 90 segundos (padrão). Para YouTube, alguns de 3 a 5 minutos e outros
+  longos (até 30 min ou mais), que depois viram cortes curtos (usar /yt-shorts).
 - Idioma: português do Brasil falado, no estilo descrito acima.
-- TODO (creator to fill in): duração, como o vídeo abre, como termina (chamada para comentar /
-  direct / link da bio), cenário e roupa.
+- Final do vídeo: comentar no conteúdo, mandar direct, ou link da bio.
+- TODO (creator to fill in): como o vídeo abre, cenário e roupa.
