@@ -67,9 +67,16 @@ Ainda falta (TODO, creator to fill in):
 - Não vender a cegueira como superpoder ("eu enxergo o que ninguém vê"): soa como promessa de
   resultado. Não usar para gerar pena. Não falar em nome de todos os cegos; só da minha
   experiência.
-- TODO (creator to fill in): se nasci cego ou perdi a visão depois (e se quero contar), como a
-  cegueira influencia meu jeito de atender (voz, escuta, silêncio, presença), e a bio atual do
-  Instagram.
+- **Minha história:** nasci prematuro, de 5 meses. Fiquei cego porque a retina foi queimada. A
+  causa que conto é a que ouvi da minha família (erro da equipe médica); ao contar em público,
+  dizer "segundo o que minha família me contou", sem citar hospital, médico ou equipe pelo nome.
+- Falo disso com total tranquilidade. Vejo como experiência, não como limitação.
+- **Portas que a cegueira abriu:** contato com pessoas da Câmara Municipal da minha cidade
+  (vereadores) e acesso a contatos; entrei na formação de terapeuta (Escola Nova Vida) contando a
+  minha história. Só citar nomes de pessoas ou cargos com autorização delas, e sem sugerir apoio
+  político ou institucional ao meu trabalho.
+- TODO (creator to fill in): como a cegueira influencia meu jeito de atender (voz, escuta,
+  silêncio, presença), com um exemplo real sem identificar ninguém; e a bio atual do Instagram.
 
 ## How I actually talk
 
