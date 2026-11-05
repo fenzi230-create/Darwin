@@ -55,6 +55,22 @@ cobrança.
 Ainda falta (TODO, creator to fill in):
 - Horários possíveis de sessão para Europa/EUA.
 
+## Cegueira: como entra no conteúdo
+
+- Sou terapeuta cego e falo disso abertamente, sem desconforto. Já me trouxe portas e acessos.
+- O terapeuta vem primeiro; a cegueira trabalha junto, não ofusca. Regra de dosagem: nunca é o
+  tema central de todo vídeo; aparece quando serve ao ponto, não como gancho de pena.
+- Quem me procura já sabe: está na bio do Instagram ("terapeuta cego") e dá para perceber.
+- Uso leitor de tela (VoiceOver). Os vídeos têm legenda.
+- Clientes costumam dizer "você é iluminado" ou frases parecidas. Não usar isso como prova nem
+  como argumento de venda.
+- Não vender a cegueira como superpoder ("eu enxergo o que ninguém vê"): soa como promessa de
+  resultado. Não usar para gerar pena. Não falar em nome de todos os cegos; só da minha
+  experiência.
+- TODO (creator to fill in): se nasci cego ou perdi a visão depois (e se quero contar), como a
+  cegueira influencia meu jeito de atender (voz, escuta, silêncio, presença), e a bio atual do
+  Instagram.
+
 ## How I actually talk
 
 Modelled on the reference speaker. Traits, from the excerpt:
