@@ -17,6 +17,12 @@ Neurolinguística), pela Escola Nova Vida. Modelo de estilo: Eduardo Molina.
 emocional que já pesa e quer resolver, não só desabafar. Já está disposta a agir. É um público
 high ticket, parecido com o do Eduardo Molina.
 
+**Where she lives:** brasileiros no Brasil e brasileiros emigrantes (vivendo fora do país). Quero
+atender quem está fora também, então o atendimento precisa funcionar online. Fala em português,
+com a mesma linguagem falada. O emigrante carrega dores próprias: saudade, culpa por ter ido,
+solidão, identidade, relação com a família que ficou, adaptação. Os vídeos podem falar com eles
+de forma direta, sem deixar o público do Brasil de lado.
+
 **What the video must do for her:** fazê-la se reconhecer na dor, sentir que quem fala entende o
 padrão dela, e querer agendar uma conversa. Não é para ensinar o método inteiro de graça.
 
@@ -26,6 +32,10 @@ Ainda falta detalhar (TODO, creator to fill in):
   emocional, outra) e a frase exata que ela diz antes de procurar ajuda.
 - O que ela já tentou (terapia comum, coach, remédio, livros) e por que não resolveu.
 - A objeção principal ao preço e ao compromisso.
+- Países/fusos dos emigrantes que quero atender (Portugal, EUA, Europa, outros) e os horários
+  possíveis de sessão para eles.
+- Preço para quem está fora: continua em reais ou muda de moeda? Como recebe (Pix, cartão
+  internacional, link de pagamento)?
 - Onde ela me encontra (YouTube, Instagram, indicação) e o que acontece depois do vídeo (link,
   WhatsApp, formulário).
 
