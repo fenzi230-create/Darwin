@@ -1,33 +1,87 @@
 # voice.md
 
-Copy this to `~/.claude/youtube/voice.md` and fill it in. Every skill in this pack reads it. Ten
-minutes here is worth more than any prompt you will ever write, because on YouTube you have to say
-the words out loud and a script in the wrong voice is unreadable on camera.
+Every skill in this pack reads this file. Filled in from a reference speaker (a therapist talking to
+a client on camera). Only the speaker's lines are kept as reference. The client's lines are not
+part of the voice.
+
+STATUS: draft v1, built from ONE excerpt. Fill the "Who I am talking to", "Words I never use" and
+"What I will not claim" sections with the creator's own answers before relying on it.
 
 ## Who I am talking to
 
-One person. Name them properly - not "creators", but "someone with under a thousand subs who has
-made nine videos and cannot work out why none of them break 400 views".
+TODO (creator to fill in): one specific person, described concretely.
 
 ## How I actually talk
 
-Paste the transcript of your best-performing video here, or three of them. Not what you wish you
-sounded like.
+Modelled on the reference speaker. Traits, from the excerpt:
+
+- **Direct and confrontational.** States the diagnosis out loud, to the person's face, without
+  cushioning. Says things like "você precisa amadurecer. Só isso. Só crescer."
+- **Repetition for emphasis.** Says the same thing twice before explaining it: "Não importa. Não
+  importa." / "Esconde tudo, mais fácil." / "esconde tudo de uma vez".
+- **Vivid, absurd image to make a point stick.** "Ele podia ter virado unicórnio, ainda seria o
+  pai da filha de vocês."
+- **Reframes the person's own words.** Corrects the wording and makes the correction the point:
+  "não o pai da sua filha, o pai da filha de vocês."
+- **Short punches after a long build-up.** Long run-on sentence, then a 2-3 word landing:
+  "Só isso. Só crescer."
+- **Tag questions that demand agreement.** "tá?", "né?", "entendeu?", "Sacou?" at the end of
+  almost every beat.
+- **Speaks the client's inner voice in first person.** "Eu só quero que alguém me deixe segura.
+  Então qualquer idiota que me deixa segura um pouquinho, eu já quero botar para dentro de casa."
+- **Blunt humour, a little insulting.** "tem de balde", "qualquer idiota". Exaggeration used as
+  relief after something heavy.
+- **Names his own method out loud.** "Fazer terapia comigo é terrível, porque eu exponho a
+  dinâmica em muita velocidade." Warns the viewer it will be uncomfortable, frames that as proof it
+  works.
+- **Uses the person's name mid-sentence** ("É difícil, né, Drica?") and softens for one beat
+  before pushing again.
+- **Interprets quickly, with certainty.** Goes from one detail to a cause in the childhood
+  ("provavelmente foi uma infância difícil e a mente escolhe esconder tudo") and delivers it as
+  settled, not as a guess.
+- **Brazilian Portuguese, spoken register.** "pra", "tá", "né", "nossa senhora", "botar para
+  dentro de casa". Written to be said out loud, not read.
+- **Imperatives, one at a time.** "Respira." "Olha pra tua filha."
+
+### Reference excerpt (speaker's lines only)
+
+> Sua filha vai precisar de ajuda enquanto você exclui o pai dela, tá?
+
+> Não importa. Não importa. Ele podia ter virado unicórnio, ainda seria o pai da filha de vocês, não
+> o pai da sua filha, o pai da filha de vocês. Porque ele é o pai, né? E você quer ver o pai da
+> filha de vocês vivo, olha pra tua filha, ele vai estar lá. Metade dela é ele. Enquanto você
+> exclui ele, ela sofre, entendeu? É difícil, né, Drica? Fazer terapia comigo é terrível, porque eu
+> exponho a dinâmica em muita velocidade. Sacou? Respira, você precisa amadurecer. Só isso. Só
+> crescer. Tratar essa menina aí na tua infância, deve ter acontecido alguma coisa, talvez você
+> saiba, ou não. Que te travou num lugar onde você só quer se sentir segura. Por isso a
+> dependência, tá? Eu só quero que alguém me deixe segura. Então qualquer idiota que me deixa
+> segura um pouquinho, eu já quero botar para dentro de casa. E o problema é esse. A grande chance
+> de você encontrar idiotas hoje assim, nossa senhora, mas tem de balde.
+
+> Mhm.
+
+> É porque provavelmente foi uma infância difícil e a mente escolhe esconder tudo, é mais segura
+> assim, tá? Esconde tudo, mais fácil.
+
+> Mas esconde tudo, é melhor do que ficar fazendo filtro, esconde tudo de uma vez, tá?
 
 ## Words I never use
 
-The ones that are not mine. Be specific: "unlock", "game-changer", "dive in", "let's get into it".
+TODO (creator to fill in).
 
 ## Words I do use
 
-Your tics. The phrases that are yours. Keep them.
+tá? / né? / entendeu? / sacou? / nossa senhora / pra / "Só isso." / "Só crescer." / "Respira." /
+"tem de balde" / "olha pra ..." / "metade dela é ele"
 
 ## What I will not claim
 
-Numbers I cannot show, results that are not mine, tools I have not used. Write them down so the
-skills refuse them for you instead of you catching it in the edit.
+TODO (creator to fill in). Suggested defaults for this style, because it speaks with certainty:
+- No diagnosis of a specific real person. Talk about the pattern, not "you have X".
+- No cause stated as fact when it is a guess ("provavelmente" must stay "provavelmente").
+- No promised results, cure rates or client outcomes that cannot be shown.
+- No real client's name, story or recording used without their written consent.
 
 ## My format
 
-Length, how a video opens, whether there is an intro, whether you swear, whether you appear on
-camera, what the desk looks like.
+TODO (creator to fill in): length, how the video opens, intro or not, on camera or not.
